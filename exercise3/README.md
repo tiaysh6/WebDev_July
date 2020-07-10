@@ -1,6 +1,6 @@
 ## 1. Create a simple page with the heading 'Hello World'.
 
-Below heading Provide two links. Say A. About and B. WebWurx: https://webwurx.in/.
+Below heading Provide two links. Say A. About and B. My Resume: https://pen-pusher.github.io/.
 
 A. Use relative to connect to about page.
 
