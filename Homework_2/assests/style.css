@@ -1,0 +1,17 @@
+.square{
+    width: 200px;
+    height: 200px;
+    border : 4px dashed lightseagreen;
+    border-radius: 10%;
+    margin-top: 102px;
+    margin-left: 102px;
+   
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#hero{
+    text-align:center;
+}
